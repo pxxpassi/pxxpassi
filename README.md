@@ -1,5 +1,4 @@
 - 👋 Hey, I'm Purvi :)
-- 🎧 I’m CSE Undergrad in SY
 - 🌱 I’m currently learning Front-end dev, UI/UX and Python programming.
 - 💌 You can connect with me on @linkedin
 
