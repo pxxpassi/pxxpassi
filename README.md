@@ -1,7 +1,4 @@
 <h1 align="LEFT"> Hi, there! I'm Purvi👋</h1>
-<h3 align="LEFT">🪴Data Enthusiast | 🪐 Flutter Developer | 🍨 ice cream lover</h3>
-
-💬 Ask me about **Getting started with Flutter, How Data intrigues me or maybe what's my fav ice cream flavour? choice is yours :)**
 
 📫 How to reach me? Drop a mail at **purvipassi28@gmail.com**
 
