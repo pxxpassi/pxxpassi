@@ -2,8 +2,8 @@
 <img align="right" alt="Coding" width="250" src="https://github.com/user-attachments/assets/93fc1996-44c4-47e5-8c2e-4d38f9689cfd">
 
 ### 🚀 About Me  
-- 🌱 Currently learning **AI**  
-- 💡 Exploring **Full-Stack Development & Machine Learning**  
+- 🌱 Currently learning **Advanced SQL**  
+- 💡 Exploring **Data Engineering & Machine Learning**  
 - 📫 How to reach me? Drop a mail at **purvipassi28@gmail.com**
 
 ### 🔗 Connect with Me  
