@@ -1,24 +1,67 @@
 <h1 align="LEFT"> Hi, there! I'm Purvi👋</h1>
+<img align="right" alt="Coding" width="250" src="https://github.com/user-attachments/assets/93fc1996-44c4-47e5-8c2e-4d38f9689cfd">
 
-📫 How to reach me? Drop a mail at **purvipassi28@gmail.com**
+### 🚀 About Me  
+- 🌱 Currently learning **AI**  
+- 💡 Exploring **Full-Stack Development & Machine Learning**  
+- 📫 How to reach me? Drop a mail at **purvipassi28@gmail.com**
 
-<h3 align="left">📍 Connect with me:</h3>
+### 🔗 Connect with Me  
 <p align="left">
-<a href="www.linkedin.com/in/purvi-passi-88064927b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a> <a href="www.gmail.com" target="blank"><img align="center" src="https://imgs.search.brave.com/pJvB4B-4SbgkgJOERRIF2cVSJJHG7zkEVHHB9Y30JQY/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly8xMDAw/bG9nb3MubmV0L3dw/LWNvbnRlbnQvdXBs/b2Fkcy8yMDIxLzA1/L0dtYWlsLWxvZ28t/NTAweDI4MS5wbmc" alt="gmail" height="30" width="60" /></a> 
+  <a href="https://www.linkedin.com/in/purvi-passi-88064927b" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.leetcode.com/purvip" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  </a>
+</p> 
+
+---
+
+### Languages and Tools:
+
+#### Languages
+<p align="left">
+ <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logoColor=white" alt="Python"/>
+ <img src="https://img.shields.io/badge/Java-%23F7A700.svg?style=for-the-badge&logoColor=white" alt="Java"/>
+ <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logoColor=white" alt="C"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-</a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
- <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
- <a href ="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
-<a href="https://flutter.dev/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40"> </a>
-<a href="https://dart.dev/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" alt="dart" width="40" height="40"> </a>
-<a href="https://www.flutterflow.io/" target="_blank" rel="noreferrer"> <img src="https://imgs.search.brave.com/KS8Bngc4F5Jem3v4SHOKRaghHMG9ECXbFI49nkdMJcs/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9zdHls/ZXMucmVkZGl0bWVk/aWEuY29tL3Q1XzQw/MnBydy9zdHlsZXMv/Y29tbXVuaXR5SWNv/bl9qdng2Yno5ZTN6/aGExLnBuZw" alt="flutterflow" width="40" height="40"> </a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
- <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"> </a> 
+
+#### Frontend Development
+
+**Web Dev** | **Mobile Dev**
+:--|:--
+<img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/React.js-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/Next.js-black.svg?style=for-the-badge&logo=vercel&logoColor=white"/> | <img src="https://img.shields.io/badge/Flutter-02569B.svg?style=for-the-badge&logo=flutter&logoColor=white"/> <img src="https://img.shields.io/badge/Dart-0175C2.svg?style=for-the-badge&logo=dart&logoColor=white"/>
+
+#### Backend Dev
+<p align="left">
+  <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Express.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
+  <img src="https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
 </p>
-  <h3 align="left">Stats:</h3>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pxxpassi&hide=javascript,html&layout=compact" alt="purvi-passi" /></p></p>
+
+
+
+#### Other Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/PowerBI-%23F2C811.svg?style=for-the-badge&logo=powerbi&logoColor=black" alt="PowerBI"/>
+  <img src="https://img.shields.io/badge/SQL-%2300C7B7.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
+  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
+  <img src="https://img.shields.io/badge/GCP-%234285F4.svg?style=for-the-badge&logo=googlecloud&logoColor=white" alt="GCP"/>
+  <img src="https://img.shields.io/badge/Looker%20Studio-4285F4.svg?style=for-the-badge&logo=looker&logoColor=white" alt="Looker Studio"/>
+</p>
+
+#### Design Tools
+<p>
+  <img src="https://img.shields.io/badge/Figma-blue.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
+  <img src="https://img.shields.io/badge/Canva-02569B.svg?style=for-the-badge&logo=canva&logoColor=white" alt="Canva"/>
+</p>
+
+---
+
+<h3 align="left">Stats:</h3>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=pxxpassi&show_icons=true&theme=radical" alt="GitHub Stats" /> <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pxxpassi&layout=compact&theme=radical" alt="Most Used Languages" />
+
