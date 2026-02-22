@@ -5,14 +5,6 @@
 - 🌱 Currently learning **Advanced SQL**  
 - 💡 Exploring **Data Engineering & Machine Learning**  
 - 📫 How to reach me? Drop a mail at **purvipassi28@gmail.com**
-
-### 🔗 Connect with Me  
-<p align="left">
-  <a href="https://www.linkedin.com/in/purvi-passi-88064927b" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-</p> 
-
 ---
 
 ### Languages and Tools:
