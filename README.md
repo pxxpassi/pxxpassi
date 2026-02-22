@@ -11,9 +11,6 @@
   <a href="https://www.linkedin.com/in/purvi-passi-88064927b" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://www.leetcode.com/purvip" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
-  </a>
 </p> 
 
 ---
@@ -61,7 +58,4 @@
 </p>
 
 ---
-
-<h3 align="left">Stats:</h3>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=pxxpassi&show_icons=true&theme=radical" alt="GitHub Stats" /> <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pxxpassi&layout=compact&theme=radical" alt="Most Used Languages" />
 
